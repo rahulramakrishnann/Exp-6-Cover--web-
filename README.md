@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## DATE :10/11/2023
+## DATE :28/10/2023
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
