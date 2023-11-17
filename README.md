@@ -141,9 +141,6 @@ Publish the website in the given URL.
 
 ![image](https://github.com/rahulramakrishnann/Exp-6-Cover--web-/assets/143045415/f292c8d8-868b-4978-86f9-461e440cbf84)
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
